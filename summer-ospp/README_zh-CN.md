@@ -17,7 +17,7 @@ RadonDB 参与开源软件供应链点亮计划 - 暑期 2022(筹备中) 。您�
 
 | 项目 | 领域 | 技能 | 难 度 | 学生 |
 | --- | --- | --- | --- | --- |
-| [kubeSphere Jenkins 客户端重构](kubeSphere-jenkins-client-refactor_zh-CN.md) <br/>从 [KubeSphere](https://github.com/kubesphere/kubesphere/) 核心代码中的 DevOps 部分将 Jenkins 客户端代码分离开，或者，使用已有的 Jenkins 客户端。<br/>导师： [Rick](https://github.com/LinuxSuRen/), [JohnNiang](https://github.com/johnniang/) | DevOps | Golang，REST API/OpenAPI，Jenkins，Kubernetes | 中 | 吴晓涵 |
+| [kubeSphere Jenkins 客户端重构](https://github.com/kubesphere/community/blob/master/sig-advocacy-and-outreach/summer-ospp/kubeSphere-jenkins-client-refactor_zh-CN.md) <br/>从 [KubeSphere](https://github.com/kubesphere/kubesphere/) 核心代码中的 DevOps 部分将 Jenkins 客户端代码分离开，或者，使用已有的 Jenkins 客户端。<br/>导师： [Rick](https://github.com/LinuxSuRen/), [JohnNiang](https://github.com/johnniang/) | DevOps | Golang，REST API/OpenAPI，Jenkins，Kubernetes | 中 | 吴晓涵 |
 | [OpenFunction 项目官网开发](openfunction-website_zh-CN.md)<br>在项目导师的帮助下，为全新的 Serverless 开源项目 [OpenFunction](https://github.com/OpenFunction/OpenFunction) 从零开始搭建与开发项目的官方网站，并完成项目上线。<br>导师：[Feynman Zhou](https://github.com/FeynmanZhou)、[Sherlock](https://github.com/Sherlock113) | Website | JavaScript，HTML，CSS，Markdown | 低 | 张源易 |
 ||||||
 ||||||
