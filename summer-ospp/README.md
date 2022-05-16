@@ -14,12 +14,8 @@ These are two project cases from KubeSphere community last year.For your referen
 
 | Project | Area | Skills to study/improve | Degree of Difficulty | Student |
 | --- | --- | --- | --- | --- |
-| [KubeSphere Jenkins Client Refactor](https://github.com/kubesphere/community/blob/master/sig-advocacy-and-outreach/summer-ospp/kubeSphere-jenkins-client-refactor.md) <br/>Split the Jenkins client from KubeSphere. Or use an existing Jenkins client. </br>Potential Mentor(s): [Rick](https://github.com/LinuxSuRen/), [JohnNiang](https://github.com/johnniang/)| DevOps | Golang, REST API/OpenAPI, Jenkins, Kubernetes | Medium | wu xiao han |
-| [KubeSphere Tekton Integration](https://github.com/kubesphere/community/blob/master/sig-advocacy-and-outreach/summer-ospp/kubeSphere-tekton-integration.md) <br/>Integrate Tekton as an alternative CI/CD engine of KubeSphere DevOps. <br/>Potential Mentor(s): [Rick](https://github.com/LinuxSuRen/), [JohnNiang](https://github.com/johnniang/) | DevOps | Golang, Tekton, Jenkins, Kubernetes | Medium | wu jia hao |
-| [OpenFunction website](https://github.com/kubesphere/community/blob/master/sig-advocacy-and-outreach/summer-ospp/openfunction-website_zh-CN.md)<br/>With the help of the project mentor, the official website of the project was built and developed from scratch for the new Serverless open source project [OpenFunction](https://github.com/OpenFunction/OpenFunction) , and the project was completed online.<br/>Potential Mentor(s): [Feynman Zhou](https://github.com/FeynmanZhou)、[Sherlock](https://github.com/Sherlock113) | Website | JavaScript，HTML，CSS，Markdown | Low | zhang yuan yi |
-||||||
-||||||
-||||||
+| [Integrated chaos test in the MySQL Operator E2E Framework](https://github.com/radondb/community/blob/main/summer-ospp/Integrated%20chaos%20test%20in%20the%20MySQL%20Operator%20E2E%20Framework..md) <br/>Contributes at least one chaos object API and test cases to the Radondb MySQL Kuberneve E2E test framework. </br>Potential Mentor(s): [runkecheng](https://github.com/runkecheng/) | Database | MySQL, Kubernetes, Golang | Basic | |
+| [A tool to NFS backup for RadonDB MySQL Kubernetes](https://github.com/radondb/community/blob/main/summer-ospp/A%20tool%20to%20NFS%20backup%20for%20RadonDB%20MySQL%20Kubernetes.md) <br/>Intergrate all steps of RadonDB MySQL Kubernetes's NFS backup to a comand tool. <br/>Potential Mentor(s): [acekingke](https://github.com/acekingke/) | Database | MySQL, NFS, Kubernetes Operator, Golang | Basic |  |
 ||||||
 ||||||
 
