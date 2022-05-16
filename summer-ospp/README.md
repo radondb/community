@@ -4,13 +4,13 @@
 
 [Summer 2022 of Open Source Promotion Plan](https://summer.iscas.ac.cn),Open Source Promotion Plan encourages everyone to pay close attention to open source software and open source community, aiming to cultivate and explore more outstanding developers. ‘Summer 2022’ will be held in this summer. We will collaborate closely with the open source community to provide one-to-one mentor guidance and invite some specialists to conduct free online lectures. In order to promote the development of open source software and facilitate the construction of excellent open source software community, we encourage researchers, open source enthusiasts, professors as well as students to participate in the development and maintenance of open source software. Furthermore, ‘Summer 2022’ is supposed to increase the activity of open source projects, and promote the development of open source ecology.
 
-## RadonDB
+## RadonDB OpenSource Community
 
-RadonDB in Summer 2022 of Open Source Promotion Plan(In preparation). You can find our proposals in this page. Or you also can submit your proposal to RadonDB community.
+RadonDB OpenSource Community in Summer 2022 of Open Source Promotion Plan(In preparation). You can find our proposals in this page. Or you also can submit your proposal to RadonDB OpenSource Community.
 
 ## Proposals
 
-These are two project cases from KubeSphere community last year.For your reference.
+Two projects this year.
 
 | Project | Area | Skills to study/improve | Degree of Difficulty | Student |
 | --- | --- | --- | --- | --- |
