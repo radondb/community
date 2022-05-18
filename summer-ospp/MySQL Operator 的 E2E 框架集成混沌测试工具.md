@@ -5,6 +5,72 @@ MySQL Operator 的 E2E 框架集成混沌测试工具
 ## 项目目标
 为 RadonDB MySQL Kubernetes E2E 测试框架贡献至少一种混沌测试故障类型相关 API 及测试用例。
 
+## 项目介绍
+
+- ## 什么是 RadonDB MySQL？
+  
+  - K8s
+  
+  - 高可用
+  
+  - MySQL
+  
+  [k8s环境下的高可用MySQL集群](https://github.com/radondb/radondb-mysql-kubernetes/blob/main/README_zh.md)
+
+- ## 什么是E2E(End-to-End)测试？
+  
+  端到端测试，推荐阅读：[What is End-to-End (E2E) Testing? | All You Need to Know (katalon.com)](https://katalon.com/resources-center/blog/end-to-end-e2e-testing)
+  
+  - 自动测试
+  - 模拟真实用户场景
+
+- ## 什么是混沌测试？
+  
+  - 模拟多种多样的故障注入（网络异常，io异常等）
+  
+  > Chaos mesh 官方文档：https://chaos-mesh.org/website-zh/docs/
+
+## 示例
+
+使用 yaml 创建 pod-kill 故障
+
+```yaml
+apiVersion: chaos-mesh.org/v1alpha1 
+kind: PodChaos   
+metadata:        
+  name: pod-kill-example  
+  namespace: chaos-testing
+spec:
+  action: pod-kill
+  mode: one
+  selector:
+    namespaces:
+      - default
+    labelSelectors:
+      'role': 'leader'
+```
+
+伪代码
+
+```go
+func killPod(action, mode string, selector Selector) *podChaos {
+    //...
+}
+```
+
+## 测试用例流程
+
+1. 创建集群
+
+2. 等待集群就绪
+
+3. 注入故障
+
+4. 观察集群状态
+
+5. 打印报告
+
+
 ## 项目技术要求
 - MySQL
 - Kubernetes
