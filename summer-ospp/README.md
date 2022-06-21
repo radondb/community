@@ -14,9 +14,8 @@ Two projects this year.
 
 | Project | Area | Skills to study/improve | Degree of Difficulty | Student |
 | --- | --- | --- | --- | --- |
-| [Integrated chaos test in the MySQL Operator E2E Framework](https://github.com/radondb/community/blob/main/summer-ospp/Integrated%20chaos%20test%20in%20the%20MySQL%20Operator%20E2E%20Framework..md) <br/>Contributes at least one chaos object API and test cases to the Radondb MySQL Kuberneve E2E test framework. </br>Potential Mentor(s): [runkecheng](https://github.com/runkecheng/) | Database | MySQL, Kubernetes, Golang | Basic | |
-| [A tool to NFS backup for RadonDB MySQL Kubernetes](https://github.com/radondb/community/blob/main/summer-ospp/A%20tool%20to%20NFS%20backup%20for%20RadonDB%20MySQL%20Kubernetes.md) <br/>Intergrate all steps of RadonDB MySQL Kubernetes's NFS backup to a comand tool. <br/>Potential Mentor(s): [acekingke](https://github.com/acekingke/) | Database | MySQL, NFS, Kubernetes Operator, Golang | Basic |  |
-||||||
+| [Integrated chaos test in the MySQL Operator E2E Framework](https://github.com/radondb/community/blob/main/summer-ospp/Integrated%20chaos%20test%20in%20the%20MySQL%20Operator%20E2E%20Framework..md) <br/>Contributes at least one chaos object API and test cases to the Radondb MySQL Kuberneve E2E test framework. </br>Potential Mentor(s): [Runke Cheng](https://github.com/runkecheng/) | Database | MySQL, Kubernetes, Golang | Basic | Chengbai Tai|
+| [A tool to NFS backup for RadonDB MySQL Kubernetes](https://github.com/radondb/community/blob/main/summer-ospp/A%20tool%20to%20NFS%20backup%20for%20RadonDB%20MySQL%20Kubernetes.md) <br/>Intergrate all steps of RadonDB MySQL Kubernetes's NFS backup to a comand tool. <br/>Potential Mentor(s): [acekingke](https://github.com/acekingke/) | Database | MySQL, NFS, Kubernetes Operator, Golang | Basic | Zixuan Hua |
 
 ## Students
 
